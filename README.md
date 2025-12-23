@@ -35,8 +35,8 @@ any content in this repository (including images, PDFs, or documentation)
 without explicit written permission from the copyright holder.
 
 Files are provided for:
-- Viewing on the iVirtualAssist website
-- Direct linking as published by iVirtualAssist only
+- Viewing on our designated website and blog.
+- Direct linking as published to our designated website and blog.
 
 ---
 
